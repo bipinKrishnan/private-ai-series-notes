@@ -1,1 +1,1 @@
-# private-ai-series-notes
+# The Private AI Series
